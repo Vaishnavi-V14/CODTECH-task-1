@@ -26,3 +26,10 @@ Technology Used
 •	Model Validation Tools: Cross-validation tools in Scikit-learn
 
 
+
+![task 1](https://github.com/user-attachments/assets/9a64f28f-de1d-4f6e-b873-7b4cf040fa28)
+
+
+![Screenshot 2024-12-28 071247](https://github.com/user-attachments/assets/5d5966dc-fb5a-4eff-99b0-7c465b2b559b)
+
+
